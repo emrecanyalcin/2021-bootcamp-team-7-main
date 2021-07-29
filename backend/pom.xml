@@ -18,7 +18,7 @@
 		<sonar.projectKey>emrecanyalcin_2021-bootcamp-team-7-main</sonar.projectKey>
 		<sonar.organization>emrecanyalcin</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.login>f9fc36b95b39b953595556096072cf33d8599325</sonar.login>
+		<sonar.login>76478d6b38821eb2176cb83b974b8d4d6b40bb10</sonar.login>
 	</properties>
 	<dependencies>
 		<dependency>
