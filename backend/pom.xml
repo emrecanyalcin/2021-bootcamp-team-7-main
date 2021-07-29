@@ -16,7 +16,7 @@
 	<properties>
 		<java.version>11</java.version>
 		<sonar.projectKey>emrecanyalcin_2021-bootcamp-team-7-main</sonar.projectKey>
-		<sonar.organization>emrecanyalcin</sonar.organization>
+		<sonar.organization>emrecanyalcin-github</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<sonar.login>76478d6b38821eb2176cb83b974b8d4d6b40bb10</sonar.login>
 	</properties>
